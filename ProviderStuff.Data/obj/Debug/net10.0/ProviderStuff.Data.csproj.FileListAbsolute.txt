@@ -1,0 +1,17 @@
+D:\ProviderStuff\ProviderStuff.Data\bin\Debug\net10.0\ProviderStuff.Data.deps.json
+D:\ProviderStuff\ProviderStuff.Data\bin\Debug\net10.0\ProviderStuff.Data.dll
+D:\ProviderStuff\ProviderStuff.Data\bin\Debug\net10.0\ProviderStuff.Data.pdb
+D:\ProviderStuff\ProviderStuff.Data\bin\Debug\net10.0\ProviderStuff.Domain.dll
+D:\ProviderStuff\ProviderStuff.Data\bin\Debug\net10.0\ProviderStuff.Domain.pdb
+D:\ProviderStuff\ProviderStuff.Data\obj\Debug\net10.0\ProviderStuff.Data.csproj.AssemblyReference.cache
+D:\ProviderStuff\ProviderStuff.Data\obj\Debug\net10.0\ProviderStuff.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProviderStuff\ProviderStuff.Data\obj\Debug\net10.0\ProviderStuff.Data.AssemblyInfoInputs.cache
+D:\ProviderStuff\ProviderStuff.Data\obj\Debug\net10.0\ProviderStuff.Data.AssemblyInfo.cs
+D:\ProviderStuff\ProviderStuff.Data\obj\Debug\net10.0\ProviderStuff.Data.csproj.CoreCompileInputs.cache
+D:\ProviderStuff\ProviderStuff.Data\obj\Debug\net10.0\Provider.9203A993.Up2Date
+D:\ProviderStuff\ProviderStuff.Data\obj\Debug\net10.0\ProviderStuff.Data.dll
+D:\ProviderStuff\ProviderStuff.Data\obj\Debug\net10.0\refint\ProviderStuff.Data.dll
+D:\ProviderStuff\ProviderStuff.Data\obj\Debug\net10.0\ProviderStuff.Data.pdb
+D:\ProviderStuff\ProviderStuff.Data\obj\Debug\net10.0\ref\ProviderStuff.Data.dll
+D:\ProviderStuff\ProviderStuff.Data\bin\Debug\net10.0\ProviderStuff.Data.runtimeconfig.json
+D:\ProviderStuff\ProviderStuff.Data\obj\Debug\net10.0\ProviderStuff.Data.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CUW2j5EDV4M=",
+  "success": true,
+  "projectFilePath": "D:\\ProviderStuff\\ProviderStuff.Web\\ProviderStuff.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdawi\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.0\\microsoft.aspnetcore.app.internal.assets.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
