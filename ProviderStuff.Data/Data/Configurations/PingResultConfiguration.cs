@@ -10,6 +10,6 @@ public class PingResultConfiguration : IEntityTypeConfiguration<PingResult>
     {
         builder.HasKey(p => p.Id);
 
-        builder.HasIndex(p => new { p.MonitoredAddressId, p.Timestamp });
+        builder.HasIndex(p => new { p.PingTestRunId, p.Timestamp });
     }
 }

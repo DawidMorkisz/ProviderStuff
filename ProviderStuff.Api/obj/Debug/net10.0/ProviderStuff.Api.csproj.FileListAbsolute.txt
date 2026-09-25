@@ -173,3 +173,4 @@ D:\ProviderStuff\ProviderStuff.Api\bin\Debug\net10.0\runtimes\osx-x64\native\msa
 D:\ProviderStuff\ProviderStuff.Api\bin\Debug\net10.0\runtimes\win-arm64\native\msalruntime_arm64.dll
 D:\ProviderStuff\ProviderStuff.Api\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
 D:\ProviderStuff\ProviderStuff.Api\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
+D:\ProviderStuff\ProviderStuff.Api\obj\Debug\net10.0\ProviderStuff.Api.sourcelink.json

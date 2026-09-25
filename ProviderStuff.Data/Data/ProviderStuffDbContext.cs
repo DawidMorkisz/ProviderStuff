@@ -16,6 +16,10 @@ public class ProviderStuffDbContext(DbContextOptions<ProviderStuffDbContext> opt
 
     public DbSet<ContactPoint> ContactPoints { get; set; }
 
+    public DbSet<Subcontractor> Subcontractors { get; set; }
+
+    public DbSet<SubcontractorContactPoint> SubcontractorContactPoints { get; set; }
+
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

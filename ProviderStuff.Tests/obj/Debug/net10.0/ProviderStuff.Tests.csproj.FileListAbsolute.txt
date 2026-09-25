@@ -103,3 +103,4 @@ D:\ProviderStuff\ProviderStuff.Tests\bin\Debug\net10.0\Moq.dll
 D:\ProviderStuff\ProviderStuff.Tests\bin\Debug\net10.0\System.Diagnostics.EventLog.dll
 D:\ProviderStuff\ProviderStuff.Tests\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
 D:\ProviderStuff\ProviderStuff.Tests\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+d:\ProviderStuff\ProviderStuff.Tests\obj\Debug\net10.0\ProviderStuff.Tests.sourcelink.json

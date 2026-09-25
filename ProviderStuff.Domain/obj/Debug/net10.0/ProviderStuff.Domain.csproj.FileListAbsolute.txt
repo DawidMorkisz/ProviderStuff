@@ -9,3 +9,4 @@ D:\ProviderStuff\ProviderStuff.Domain\obj\Debug\net10.0\ProviderStuff.Domain.dll
 D:\ProviderStuff\ProviderStuff.Domain\obj\Debug\net10.0\refint\ProviderStuff.Domain.dll
 D:\ProviderStuff\ProviderStuff.Domain\obj\Debug\net10.0\ProviderStuff.Domain.pdb
 D:\ProviderStuff\ProviderStuff.Domain\obj\Debug\net10.0\ref\ProviderStuff.Domain.dll
+d:\ProviderStuff\ProviderStuff.Domain\obj\Debug\net10.0\ProviderStuff.Domain.sourcelink.json

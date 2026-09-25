@@ -15,3 +15,4 @@ D:\ProviderStuff\ProviderStuff.Data\obj\Debug\net10.0\ProviderStuff.Data.pdb
 D:\ProviderStuff\ProviderStuff.Data\obj\Debug\net10.0\ref\ProviderStuff.Data.dll
 D:\ProviderStuff\ProviderStuff.Data\bin\Debug\net10.0\ProviderStuff.Data.runtimeconfig.json
 D:\ProviderStuff\ProviderStuff.Data\obj\Debug\net10.0\ProviderStuff.Data.genruntimeconfig.cache
+D:\ProviderStuff\ProviderStuff.Data\obj\Debug\net10.0\ProviderStuff.Data.sourcelink.json

@@ -10,9 +10,9 @@ public class MonitoredAddressConfiguration : IEntityTypeConfiguration<MonitoredA
     {
         builder.HasKey(ma => ma.Id);
 
-        builder.HasMany(ma => ma.PingResults)
-            .WithOne(pr => pr.MonitoredAddress)
-            .HasForeignKey(pr => pr.MonitoredAddressId)
+        builder.HasMany(ma => ma.PingTestRuns)
+            .WithOne(t => t.MonitoredAddress)
+            .HasForeignKey(t => t.MonitoredAddressId)
             .OnDelete(DeleteBehavior.Cascade);
 
         builder.HasMany(ma => ma.StatusChangeLogs)
