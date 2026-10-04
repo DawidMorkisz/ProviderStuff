@@ -13,6 +13,8 @@ public class ProviderStuffDbContext(DbContextOptions<ProviderStuffDbContext> opt
     public DbSet<MonitoredAddress> MonitoredAddresses { get; set; }
 
     public DbSet<PingResult> PingResults { get; set; }
+    
+    public DbSet<PingTestRun> PingTestRuns { get; set; }
 
     public DbSet<ContactPoint> ContactPoints { get; set; }
 

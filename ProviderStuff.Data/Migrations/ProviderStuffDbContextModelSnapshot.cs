@@ -152,6 +152,9 @@ namespace ProviderStuff.Data.Migrations
                     b.Property<double>("PacketLossPercent")
                         .HasColumnType("float");
 
+                    b.Property<int>("PacketLost")
+                        .HasColumnType("int");
+
                     b.Property<DateTime>("RunAt")
                         .HasColumnType("datetime2");
 
@@ -163,9 +166,9 @@ namespace ProviderStuff.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("MonitoredAddressId");
+                    b.HasIndex("MonitoredAddressId", "RunAt");
 
-                    b.ToTable("PingTestRun");
+                    b.ToTable("PingTestRuns");
                 });
 
             modelBuilder.Entity("ProviderStuff.Domain.Entities.StatusChangeLog", b =>

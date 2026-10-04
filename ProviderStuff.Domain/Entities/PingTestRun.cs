@@ -10,6 +10,7 @@ public class PingTestRun
     public DateTime RunAt { get; set; } = DateTime.UtcNow;
     public int TotalPings { get; set; }
     public int SuccessCount { get; set; }
+    public int PacketLost { get; set; }
     public double PacketLossPercent { get; set; }
     public double AverageResponseTimeMs { get; set; }
     public int MinResponseTimeMs { get; set; }
